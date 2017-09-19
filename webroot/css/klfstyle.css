@@ -1,0 +1,46 @@
+.container{
+	background-color: #FFF;
+}
+.header{
+	padding: 10px 20px;
+}
+.main-menu{
+	border: 2px solid #999;
+	padding: 10px 20px;
+	text-align: center;
+}
+.main-menu li {
+	display: inline;
+	list-style: none;
+	margin: 0.5rem 3rem;
+}
+
+.content{
+	clear: both;
+	color: #333;
+	padding: 10px 20px 40px 20px;
+	overflow: auto;
+}
+.footer {
+	background-color: #EEE;
+	border-top: 2px solid #999;
+	clear: both;
+	padding: 6px 10px;
+	text-align: center;
+	color: #000;
+}
+
+
+.detail-panel {
+	float: left;
+	margin: 5px;
+	padding: 10px 20px;
+	border: 1px solid #CCC;
+
+}
+.detail-field{
+	margin-bottom: 10px;
+	padding: 5px;
+	border-bottom: 1px solid #CCC;
+	line-height: 2rem;
+}
